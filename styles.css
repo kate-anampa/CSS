@@ -1,0 +1,39 @@
+/* SELECTOR ETIQUETA */
+
+/*h1{
+    color: red;
+}
+
+p{
+    color: red;
+}
+
+a{
+    color:inherit;
+
+}*/
+
+#selectorId {
+    color: yellow;
+}
+
+.selectorClass {
+   color: red;
+}
+
+h1{
+    color:blue;
+}
+
+h1{
+    color: green;
+}
+
+/*
+selector de etiqueta 1
+selector de clase    10
+selector de ID       100
+inline               1000
+important            infinito
+
+*/
